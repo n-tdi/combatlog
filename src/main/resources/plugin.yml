@@ -1,0 +1,8 @@
+name: CombatLog
+version: '${project.version}'
+main: world.ntdi.combatlog.CombatLog
+api-version: 1.17
+prefix: CombatLog
+authors: [ Ntdi ]
+description: Combat Log
+website: ntdi.world
